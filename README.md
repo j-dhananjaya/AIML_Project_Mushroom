@@ -25,7 +25,7 @@ To ensure the models' reliability and to avoid overfitting, **Stratified 5-Fold 
 ### Confusion Matrix (Decision Tree)
 *(Below is the Confusion Matrix for the Decision Tree model evaluation)*
 
-![Confusion Matrix](results/decision_tree_confusion_matrix.png)
+![Confusion Matrix](results/outputs/decision_tree_confusion_matrix.png)
 
 ## 💻 Source Code
 The complete code implementation, including data preprocessing, model training, and evaluation, is provided in the **[Group_pipeline.ipynb](Group_pipeline.ipynb)** file in this repository.
