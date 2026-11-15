@@ -1,0 +1,8 @@
+Metric,Baseline Model,Tuned Model
+Trees (n_estimators),100,100
+Max Depth,None,None
+Accuracy,99.94%,99.94%
+Precision,100.00%,100.00%
+Recall,99.87%,99.87%
+F1-Score,99.94%,99.94%
+ROC-AUC,1.0000,1.0000

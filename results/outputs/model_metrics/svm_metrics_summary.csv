@@ -1,0 +1,8 @@
+Metric,Baseline Model,Tuned Model
+Kernel,rbf,rbf
+C,1.0,10.0
+Accuracy,100.00%,100.00%
+Precision,100.00%,100.00%
+Recall,100.00%,100.00%
+F1-Score,100.00%,100.00%
+ROC-AUC,1.0000,1.0000

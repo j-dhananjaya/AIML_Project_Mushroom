@@ -1,0 +1,7 @@
+Model,Member ID,Algorithm Family,Best Parameters,Accuracy (%),Precision (%),Recall (%),F1-Score (%),ROC-AUC
+Decision Tree,IT25103896,Tree-Based,"max_depth=8, criterion=entropy",99.69,99.87,99.49,99.68,0.9969
+Logistic Regression,IT25103919,Linear Model,"C=10.0, penalty=l2, solver=lbfgs",99.94,100.0,99.87,99.94,1.0
+K-Nearest Neighbors,IT25103942,Instance-Based,"n_neighbors=3, weights=distance, metric=euclidean",100.0,100.0,100.0,100.0,1.0
+Random Forest,IT25103909,Ensemble (Bagging),"n_estimators=100, max_depth=None, criterion=gini",99.94,100.0,99.87,99.94,1.0
+Support Vector Machine,IT25103870,Kernel Method,"C=10.0, kernel=rbf, gamma=scale",100.0,100.0,100.0,100.0,1.0
+Neural Network (MLP),IT25103931,Deep Learning,"hidden_layer_sizes=(50, 25), activation=relu, alpha=0.0001",100.0,100.0,100.0,100.0,1.0

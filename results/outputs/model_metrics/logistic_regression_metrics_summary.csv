@@ -1,0 +1,6 @@
+Metric,Baseline Model,Tuned Model
+Accuracy,98.65%,99.94%
+Precision,98.72%,100.00%
+Recall,98.47%,99.87%
+F1-Score,98.59%,99.94%
+ROC-AUC,0.9973,1.0000

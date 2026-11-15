@@ -1,0 +1,7 @@
+Metric,Baseline Model,Tuned Model
+Max Depth,13,8
+Accuracy,99.69%,99.69%
+Precision,100.00%,99.87%
+Recall,99.36%,99.49%
+F1-Score,99.68%,99.68%
+ROC-AUC,0.9968,0.9969

@@ -1,0 +1,7 @@
+Metric,Baseline Model,Tuned Model
+Neighbors (K),5,3
+Accuracy,100.00%,100.00%
+Precision,100.00%,100.00%
+Recall,100.00%,100.00%
+F1-Score,100.00%,100.00%
+ROC-AUC,1.0000,1.0000
