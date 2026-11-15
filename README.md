@@ -22,15 +22,10 @@ To ensure the models' reliability and to avoid overfitting, **Stratified 5-Fold 
 
 ## 📈 Results and Visualizations
 
-### Model Accuracies
-*(The chart below illustrates the comparison of accuracies across all evaluated models)*
+### Confusion Matrix (Decision Tree)
+*(Below is the Confusion Matrix for the Decision Tree model evaluation)*
 
-![Model Accuracies](results/accuracy_chart.png)
-
-### Confusion Matrices
-*(Example Confusion Matrix from the evaluation)*
-
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/decision_tree_confusion_matrix.png)
 
 ## 💻 Source Code
 The complete code implementation, including data preprocessing, model training, and evaluation, is provided in the **[Group_pipeline.ipynb](Group_pipeline.ipynb)** file in this repository.
