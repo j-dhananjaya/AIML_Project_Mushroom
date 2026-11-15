@@ -22,6 +22,16 @@ To ensure the models' reliability and to avoid overfitting, **Stratified 5-Fold 
 
 ## 📈 Results and Visualizations
 
+### Model Performance Comparison
+*(Overall performance comparison of all evaluated models)*
+
+![Model Performance Comparison](results/outputs/group_models_performance_comparison.png)
+
+### ROC-AUC Comparison
+*(ROC-AUC curve comparison across all models)*
+
+![ROC-AUC Comparison](results/outputs/group_models_roc_auc_comparison.png)
+
 ### Confusion Matrix (Decision Tree)
 *(Below is the Confusion Matrix for the Decision Tree model evaluation)*
 
